@@ -1,0 +1,30 @@
+.watchlist {
+    /* text-align: center; */
+    background-color: #f8f8f8;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content:center; */
+    font-size: calc(10px + 2vmin);
+    color: rgb(67, 61, 61);
+  }
+  .center{
+    display: flex;
+    /* position: absolute; */
+    margin-top: 20vh;
+    flex-direction: column;
+    align-items: center;
+  }
+  .logout{
+    /* position: absolute; */
+    display: flex;
+    margin-top: 30vh;
+  }
+  .system{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    margin-top: 10vh;
+    margin-left: 80vh;
+  }
